@@ -6,12 +6,13 @@ using System.Threading.Tasks;
 
 namespace Lab18Erik.Model
 {
-    public class Climate
-    {   
-        [Key]
-        public int ClimateID { get; set; }
-        public string Name { get; set; }
+    public class DestenationSupplies
+    {   [Key]
         public int DestenationID { get; set; }
-        public int SupplyItemID { get; set; }
+        [Key]
+        public int SupplyID { get; set; }
+
+        public Destenation Destenation { get; set; }
+        public Supply Supply { get; set; }
     }
 }

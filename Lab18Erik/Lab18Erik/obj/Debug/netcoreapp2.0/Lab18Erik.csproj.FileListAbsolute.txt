@@ -6,3 +6,6 @@ C:\Users\shop2\source\repos\Lab18---DatabaseFirst\Lab18Erik\Lab18Erik\obj\Debug\
 C:\Users\shop2\source\repos\Lab18---DatabaseFirst\Lab18Erik\Lab18Erik\obj\Debug\netcoreapp2.0\Lab18Erik.csproj.CoreCompileInputs.cache
 C:\Users\shop2\source\repos\Lab18---DatabaseFirst\Lab18Erik\Lab18Erik\obj\Debug\netcoreapp2.0\Lab18Erik.AssemblyInfoInputs.cache
 C:\Users\shop2\source\repos\Lab18---DatabaseFirst\Lab18Erik\Lab18Erik\obj\Debug\netcoreapp2.0\Lab18Erik.AssemblyInfo.cs
+C:\Users\shop2\source\repos\Lab18---DatabaseFirst\Lab18Erik\Lab18Erik\bin\Debug\netcoreapp2.0\Lab18Erik.pdb
+C:\Users\shop2\source\repos\Lab18---DatabaseFirst\Lab18Erik\Lab18Erik\obj\Debug\netcoreapp2.0\Lab18Erik.dll
+C:\Users\shop2\source\repos\Lab18---DatabaseFirst\Lab18Erik\Lab18Erik\obj\Debug\netcoreapp2.0\Lab18Erik.pdb
